@@ -1,4 +1,6 @@
-<img width="100%" height="auto" src="https://media.licdn.com/dms/image/v2/D5612AQGBE2jRz87lMA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1714296861269?e=2147483647&v=beta&t=vb6Er4mfaN80kBvRp3wJY97djcrrXA53OHDpuV0FlJ0"/>
+<div>
+  <img width="100%" height="auto" src="https://media.licdn.com/dms/image/v2/D5612AQGBE2jRz87lMA/article-cover_image-shrink_720_1280/article-cover_image-     shrink_720_1280/0/1714296861269?e=2147483647&v=beta&t=vb6Er4mfaN80kBvRp3wJY97djcrrXA53OHDpuV0FlJ0"/>  
+</div>
 <h1 align="center">👋, I'm Eslaen</h1>
 <h3 align="center">I am a student of Programming and Systems Analysis at the AIEP Institute, Chile.</h3>
 
